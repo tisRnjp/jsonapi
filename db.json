@@ -1,0 +1,38 @@
+{
+"menus": {
+    "name": "Chicken Momo",
+    "ingredients": "Chicken Mince, Flour, Oil, Red Onions, Green Onions, Cilantro, Butter, Garlic & Ginger paste, Spices, Salt, Water, Sesame Paste, Lemon Juice, Tomato, Red Pepper, MSG",
+    "allergens": "Gluten, Sesame, Soy, Dairy",
+    "heatingMethod": "Mircrowave for 1-2 minutes",
+    "storage": "Store in a refrigerator",
+    "product": "Fully Cooked",
+    "imageName": "momo.jpg"
+  },
+  {
+    "name": "Chicken Momo",
+    "ingredients": "Chicken Mince, Flour, Oil, Red Onions, Green Onions, Cilantro, Butter, Garlic & Ginger paste, Spices, Salt, Water, Sesame Paste, Lemon Juice, Tomato, Red Pepper, MSG",
+    "allergens": "Gluten, Sesame, Soy, Dairy",
+    "heatingMethod": "Mircrowave for 1-2 minutes",
+    "storage": "Store in a refrigerator",
+    "product": "Fully Cooked",
+    "imageName": "momo.jpg"
+  },
+  {
+    "name": "Chicken Momo",
+    "ingredients": "Chicken Mince, Flour, Oil, Red Onions, Green Onions, Cilantro, Butter, Garlic & Ginger paste, Spices, Salt, Water, Sesame Paste, Lemon Juice, Tomato, Red Pepper, MSG",
+    "allergens": "Gluten, Sesame, Soy, Dairy",
+    "heatingMethod": "Mircrowave for 1-2 minutes",
+    "storage": "Store in a refrigerator",
+    "product": "Fully Cooked",
+    "imageName": "momo.jpg"
+  },
+  {
+    "name": "Chicken Momo",
+    "ingredients": "Chicken Mince, Flour, Oil, Red Onions, Green Onions, Cilantro, Butter, Garlic & Ginger paste, Spices, Salt, Water, Sesame Paste, Lemon Juice, Tomato, Red Pepper, MSG",
+    "allergens": "Gluten, Sesame, Soy, Dairy",
+    "heatingMethod": "Mircrowave for 1-2 minutes",
+    "storage": "Store in a refrigerator",
+    "product": "Fully Cooked",
+    "imageName": "momo.jpg"
+  }
+  }
