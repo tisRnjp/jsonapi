@@ -1,5 +1,6 @@
 {
 "menus": [{
+    "id": 1,
     "name": "Chicken Momo",
     "ingredients": "Chicken Mince, Flour, Oil, Red Onions, Green Onions, Cilantro, Butter, Garlic & Ginger paste, Spices, Salt, Water, Sesame Paste, Lemon Juice, Tomato, Red Pepper, MSG",
     "allergens": "Gluten, Sesame, Soy, Dairy",
@@ -9,6 +10,7 @@
     "imageName": "momo.jpg"
   },
   {
+    "id": 2,
     "name": "Chicken Momo",
     "ingredients": "Chicken Mince, Flour, Oil, Red Onions, Green Onions, Cilantro, Butter, Garlic & Ginger paste, Spices, Salt, Water, Sesame Paste, Lemon Juice, Tomato, Red Pepper, MSG",
     "allergens": "Gluten, Sesame, Soy, Dairy",
@@ -18,6 +20,7 @@
     "imageName": "momo.jpg"
   },
   {
+    "id": 3,
     "name": "Chicken Momo",
     "ingredients": "Chicken Mince, Flour, Oil, Red Onions, Green Onions, Cilantro, Butter, Garlic & Ginger paste, Spices, Salt, Water, Sesame Paste, Lemon Juice, Tomato, Red Pepper, MSG",
     "allergens": "Gluten, Sesame, Soy, Dairy",
@@ -27,6 +30,7 @@
     "imageName": "momo.jpg"
   },
   {
+    "id": 4,
     "name": "Chicken Momo",
     "ingredients": "Chicken Mince, Flour, Oil, Red Onions, Green Onions, Cilantro, Butter, Garlic & Ginger paste, Spices, Salt, Water, Sesame Paste, Lemon Juice, Tomato, Red Pepper, MSG",
     "allergens": "Gluten, Sesame, Soy, Dairy",
