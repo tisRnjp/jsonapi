@@ -1,5 +1,5 @@
 {
-"menus": {
+"menus": [{
     "name": "Chicken Momo",
     "ingredients": "Chicken Mince, Flour, Oil, Red Onions, Green Onions, Cilantro, Butter, Garlic & Ginger paste, Spices, Salt, Water, Sesame Paste, Lemon Juice, Tomato, Red Pepper, MSG",
     "allergens": "Gluten, Sesame, Soy, Dairy",
@@ -34,5 +34,5 @@
     "storage": "Store in a refrigerator",
     "product": "Fully Cooked",
     "imageName": "momo.jpg"
-  }
+  }]
   }
